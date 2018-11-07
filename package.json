@@ -1,0 +1,19 @@
+{
+  "name": "hugbot",
+  "version": "1.0.0",
+  "description": "A friendly bot for your Discord server.",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neurotech/hugbot.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "Tim Douglas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neurotech/hugbot/issues"
+  },
+  "homepage": "https://github.com/neurotech/hugbot#readme"
+}
